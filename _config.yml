@@ -1,14 +1,14 @@
 # Site wide configuration
 
-title: Site Title
+title: Welcome to NEXUS Environmental Group!
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Kalani Norton
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  bio: "NEXUS Environmental Group Guam provides top-notch construction, demolition, and specialty environmental services along with great customer support - a combination that can't be beat! Through our commitment, experience, and expertise, NEXUS has established a business relationship with our customers that will last a lifetime (or at least until the project has been successfully completed)!"
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: #username
